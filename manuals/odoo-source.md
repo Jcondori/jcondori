@@ -144,6 +144,7 @@ db_host = 127.0.0.1
 db_port = 5432
 db_user = odoo
 db_password = odoo
+db_name = 
 addons_path = /opt/odoo/odoo/addons,/opt/odoo/custom_addons/enterprise
 data_dir = /opt/odoo/.local/share/Odoo
 without_demo = True
